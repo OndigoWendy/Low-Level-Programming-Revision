@@ -34,7 +34,16 @@ vim file.txt +"set ff=unix" +wq
 
 The C file name will be saved in the variable $CFILE
 
- <tr>
+<table>
+        <thead>
+                <td>
+                        <b>SUMMARY</b>
+                </td>
+                <td>
+                        <b>SUMMARY</b>
+                </td>
+        </thead>
+        <tr>
                 <td>
                         <img width="381" alt="code-two" src="https://slidetodoc.com/presentation_image/1b46abb6cbee828587d12425094b5114/image-33.jpg">
                 </td>
@@ -42,3 +51,5 @@ The C file name will be saved in the variable $CFILE
                         <img width="307" alt="render-two" src="https://cs.brown.edu/courses/csci1310/2020/assign/labs/assets/lab2-compilation.png">
                 </td>
         </tr>
+       
+</table>
