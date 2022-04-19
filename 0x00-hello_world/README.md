@@ -32,3 +32,8 @@ The -E option causes gcc to run the preprocessor, display the expanded output, a
 	</tr>
 </table>
 
+I was using the WSL so:
+To run directly in a Linux console:
+
+vim file.txt +"set ff=unix" +wq
+
